@@ -17,7 +17,7 @@ SETUP for iterm2:
 	# Launch vim and run :PluginInstall
 	
 	
-	# connect iterm annd zsh and tmux
+	# connect iterm and zsh and tmux
 	Go to iterm preference -> profiles -> command;  
 		name as zsh, title job, 
 		command /usr/local/bin/zsh --login
