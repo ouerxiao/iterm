@@ -21,6 +21,8 @@ SETUP for iterm2:
 		send text as start: tmux attach -t default || tmux new -s default
 
 	
+	git clone git@github.com:ouerxiao/iterm.git
+	
 	mv ./.ycm_extra_conf.py ~/.vim/.ycm_extra_conf.py
 	mv ./.zshrc ~/.zshrc
 	mv ./.tmux.conf ~/.tmux.conf
