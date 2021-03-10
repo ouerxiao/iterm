@@ -5,6 +5,7 @@ SETUP for iterm2:
 
 	brew install cask
 	brew cask install iterm2
+	
 	brew install zsh
 	brew install tmux
 
