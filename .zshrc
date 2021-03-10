@@ -1,7 +1,3 @@
-export EMAIL_USER='ouerxiao@gmail.com'
-export EMAIL_PASS='wclalrdlgerhyquh'
-export DB_USER='xiaoAdmin'
-export DB_PASS='pass'
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
