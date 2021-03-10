@@ -14,5 +14,5 @@ SETUP for iterm2:
 	mv ./.ycm_extra_conf.py ~/.vim/.ycm_extra_conf.py
 	mv ./.zshrc ~/.zshrc
 	mv ./.tmux.conf ~/.tmux.conf
-	mv ./.bimrc ~/.vimrc
+	mv ./.vimrc ~/.vimrc
 
